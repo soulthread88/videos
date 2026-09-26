@@ -1,48 +1,48 @@
 1
-00:00:00,800 --> 00:00:08,246
+00:00:00,800 --> 00:00:08,171
 The treads of a Merkava tank were far quieter than people imagine. Silent. Ominously silent.
 
 2
-00:00:08,246 --> 00:00:16,340
+00:00:08,171 --> 00:00:16,184
 For Mohammad Kasser at a Hezbollah lookout post, the tanks he couldn't see were the most terrifying.
 
 3
-00:00:16,340 --> 00:00:21,034
+00:00:16,184 --> 00:00:20,831
 If you could see them, at least you knew which way to run.
 
 4
-00:00:21,034 --> 00:00:23,219
+00:00:20,831 --> 00:00:23,035
 This was not an air strike.
 
 5
-00:00:23,219 --> 00:00:26,052
+00:00:23,035 --> 00:00:25,891
 Air strikes came down from the sky.
 
 6
-00:00:26,052 --> 00:00:30,585
+00:00:25,891 --> 00:00:30,462
 This came across the ground. Armor. Infantry. Artillery.
 
 7
-00:00:30,585 --> 00:00:32,446
+00:00:30,462 --> 00:00:32,339
 The oldest form of war.
 
 8
-00:00:32,446 --> 00:00:34,308
+00:00:32,339 --> 00:00:34,216
 He picked up his AK-47.
 
 9
-00:00:34,308 --> 00:00:36,412
+00:00:34,216 --> 00:00:36,338
 He couldn't shoot the sky.
 
 10
-00:00:36,412 --> 00:00:38,436
+00:00:36,338 --> 00:00:38,379
 He couldn't stop a drone.
 
 11
-00:00:38,436 --> 00:00:40,702
+00:00:38,379 --> 00:00:40,664
 A border is a line on a map.
 
 12
-00:00:40,702 --> 00:00:45,234
+00:00:40,664 --> 00:00:45,234
 Tank treads roll right over it — and the line is erased.
 

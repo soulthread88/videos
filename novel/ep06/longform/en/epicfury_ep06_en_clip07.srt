@@ -1,56 +1,56 @@
 1
-00:00:00,800 --> 00:00:02,881
+00:00:00,800 --> 00:00:02,877
 The children were asleep.
 
 2
-00:00:02,881 --> 00:00:09,039
+00:00:02,877 --> 00:00:09,027
 Fatima al-Rashid had put all three to bed and sat down in the living room.
 
 3
-00:00:09,039 --> 00:00:12,784
+00:00:09,027 --> 00:00:12,766
 Since the war began, every sound had changed.
 
 4
-00:00:12,784 --> 00:00:15,531
+00:00:12,766 --> 00:00:15,508
 An engine sounded like a missile.
 
 5
-00:00:15,531 --> 00:00:18,277
+00:00:15,508 --> 00:00:18,250
 Lightning felt like an explosion.
 
 6
-00:00:18,277 --> 00:00:25,018
+00:00:18,250 --> 00:00:24,981
 That night, an Iranian drone struck an eight-story apartment building in Salmiya.
 
 7
-00:00:25,018 --> 00:00:26,516
+00:00:24,981 --> 00:00:26,481
 The ceiling shook.
 
 8
-00:00:26,516 --> 00:00:31,510
+00:00:26,481 --> 00:00:31,481
 Her youngest was crying — five years old, not even sure why.
 
 9
-00:00:31,510 --> 00:00:36,004
+00:00:31,481 --> 00:00:35,981
 Something was frightening, and that was reason enough.
 
 10
-00:00:36,004 --> 00:00:39,499
+00:00:35,981 --> 00:00:39,481
 Fatima held her and looked out the window.
 
 11
-00:00:39,499 --> 00:00:42,745
+00:00:39,481 --> 00:00:42,731
 Smoke rose from the building next door.
 
 12
-00:00:42,745 --> 00:00:44,493
+00:00:42,731 --> 00:00:44,481
 There were no lights.
 
 13
-00:00:44,493 --> 00:00:47,239
+00:00:44,481 --> 00:00:47,231
 Wars are fought between soldiers.
 
 14
-00:00:47,239 --> 00:00:54,064
+00:00:47,231 --> 00:00:54,064
 But in the darkness a war leaves behind, the ones who cry are always the children.
 

@@ -1,56 +1,56 @@
 1
-00:00:00,800 --> 00:00:02,367
+00:00:00,800 --> 00:00:02,369
 There was a number.
 
 2
-00:00:02,367 --> 00:00:04,429
+00:00:02,369 --> 00:00:04,433
 More than eleven hundred.
 
 3
-00:00:04,429 --> 00:00:06,078
+00:00:04,433 --> 00:00:06,085
 Two hundred in Iran.
 
 4
-00:00:06,078 --> 00:00:10,450
+00:00:06,085 --> 00:00:10,461
 Ninety-one in Lebanon. Four in Israel. One in Kuwait.
 
 5
-00:00:10,450 --> 00:00:15,563
+00:00:10,461 --> 00:00:15,581
 The report had no names in it. Only numbers. Numbers are tidy.
 
 6
-00:00:15,563 --> 00:00:17,625
+00:00:15,581 --> 00:00:17,645
 Children's names are not.
 
 7
-00:00:17,625 --> 00:00:20,017
+00:00:17,645 --> 00:00:20,035
 In Isfahan, Zahra was twelve.
 
 8
-00:00:20,017 --> 00:00:25,625
+00:00:20,035 --> 00:00:25,639
 She fell on a stairwell while running for shelter and hurt her head.
 
 9
-00:00:25,625 --> 00:00:28,347
+00:00:25,639 --> 00:00:28,359
 It wasn't a missile. It was fear.
 
 10
-00:00:28,347 --> 00:00:30,656
+00:00:28,359 --> 00:00:30,666
 In Nabatieh, Youssef is six.
 
 11
-00:00:30,656 --> 00:00:34,533
+00:00:30,666 --> 00:00:34,539
 He is alive, but his right ear no longer hears.
 
 12
-00:00:34,533 --> 00:00:38,079
+00:00:34,539 --> 00:00:38,083
 Children don't know why anyone is fighting.
 
 13
-00:00:38,079 --> 00:00:39,811
+00:00:38,083 --> 00:00:39,814
 Adults think they do.
 
 14
-00:00:39,811 --> 00:00:43,275
+00:00:39,814 --> 00:00:43,275
 That difference is what makes all of this.
 

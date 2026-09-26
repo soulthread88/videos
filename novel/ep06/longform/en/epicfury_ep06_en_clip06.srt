@@ -1,40 +1,40 @@
 1
-00:00:00,800 --> 00:00:06,293
+00:00:00,800 --> 00:00:06,299
 Foreign Minister Lee Junhyeok stood at the window, looking down at Seoul.
 
 2
-00:00:06,293 --> 00:00:10,882
+00:00:06,299 --> 00:00:10,895
 People were walking to work, knowing nothing. He envied them.
 
 3
-00:00:10,882 --> 00:00:14,720
+00:00:10,895 --> 00:00:14,737
 The cable from the U.S. Embassy was two lines long.
 
 4
-00:00:14,720 --> 00:00:17,654
+00:00:14,737 --> 00:00:17,675
 A request to join the Hormuz operation.
 
 5
-00:00:17,654 --> 00:00:20,965
+00:00:17,675 --> 00:00:20,990
 An answer required within twenty-four hours.
 
 6
-00:00:20,965 --> 00:00:24,426
+00:00:20,990 --> 00:00:24,447
 The reply had already gone out under his name.
 
 7
-00:00:24,426 --> 00:00:29,843
+00:00:24,447 --> 00:00:29,859
 Formal regrets, constitutional constraints, a strong call for diplomacy.
 
 8
-00:00:29,843 --> 00:00:32,853
+00:00:29,859 --> 00:00:32,865
 “Tell them there's no official reaction.
 
 9
-00:00:32,853 --> 00:00:36,690
+00:00:32,865 --> 00:00:36,699
 We support it, but we won't take part. That's all.”
 
 10
-00:00:36,690 --> 00:00:44,816
+00:00:36,699 --> 00:00:44,816
 When one nation leaves another alone on the battlefield, it is always done in a properly formatted document.
 
