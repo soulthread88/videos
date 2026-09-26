@@ -1,52 +1,55 @@
 1
-00:00:00,800 --> 00:00:03,510
+00:00:00,800 --> 00:00:03,470
 Altitude: twelve thousand meters.
 
 2
-00:00:03,510 --> 00:00:06,959
+00:00:03,510 --> 00:00:06,919
 The Israeli pilot checked the coordinates.
 
 3
-00:00:06,959 --> 00:00:08,766
+00:00:06,959 --> 00:00:08,726
 Then he checked again.
 
 4
-00:00:08,766 --> 00:00:11,147
+00:00:08,766 --> 00:00:11,107
 The target was not a soldier.
 
 5
-00:00:11,147 --> 00:00:17,470
-But in war, the line between civilians and the powerful exists only on paper.
+00:00:11,147 --> 00:00:17,430
+But in war, the line between civilians
+and the powerful exists only on paper.
 
 6
-00:00:17,470 --> 00:00:24,368
-He thought of his mother in Haifa — the woman who never wanted her son in this seat.
+00:00:17,470 --> 00:00:24,328
+He thought of his mother in Haifa — the
+woman who never wanted her son in this seat.
 
 7
-00:00:24,368 --> 00:00:29,624
-The release button is pressed with two fingers. That's the rule.
+00:00:24,368 --> 00:00:29,584
+The release button is pressed with
+two fingers. That's the rule.
 
 8
-00:00:29,624 --> 00:00:31,595
+00:00:29,624 --> 00:00:31,555
 One finger is a mistake.
 
 9
-00:00:31,595 --> 00:00:34,141
+00:00:31,595 --> 00:00:34,101
 Two fingers make it a decision.
 
 10
-00:00:34,141 --> 00:00:36,276
+00:00:34,141 --> 00:00:36,236
 There were two explosions.
 
 11
-00:00:36,276 --> 00:00:38,575
+00:00:36,276 --> 00:00:38,535
 The first took off the roof.
 
 12
-00:00:38,575 --> 00:00:40,875
+00:00:38,575 --> 00:00:40,835
 No one remembers the second.
 
 13
 00:00:40,875 --> 00:00:44,816
-Memory only reaches as far as the moment before.
-
+Memory only reaches as
+far as the moment before.

@@ -1,16 +1,23 @@
 1
-00:00:00,800 --> 00:00:02,422
+00:00:00,800 --> 00:00:02,382
 Day 18, before dawn.
 
 2
-00:00:02,422 --> 00:00:08,746
-With U.S. cooperation, Israel struck several senior Iranian officials at once.
+00:00:02,422 --> 00:00:08,706
+With U.S. cooperation, Israel struck
+several senior Iranian officials at once.
 
 3
-00:00:08,746 --> 00:00:19,529
-At 5:12 AM, Iranian state TV confirmed the deaths of former parliament speaker Ali Larijani and Basij commander Gholamreza Soleimani.
+00:00:08,746 --> 00:00:14,424
+At 5:12 AM, Iranian state TV confirmed
+the deaths of former parliament
 
 4
-00:00:19,529 --> 00:00:24,232
-The oldest channel in Iran's nuclear diplomacy had closed.
+00:00:14,464 --> 00:00:19,489
+speaker Ali Larijani and Basij
+commander Gholamreza Soleimani.
 
+5
+00:00:19,529 --> 00:00:24,232
+The oldest channel in Iran's
+nuclear diplomacy had closed.

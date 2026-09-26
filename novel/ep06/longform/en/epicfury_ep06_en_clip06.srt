@@ -1,40 +1,52 @@
 1
-00:00:00,800 --> 00:00:06,293
-Foreign Minister Lee Junhyeok stood at the window, looking down at Seoul.
+00:00:00,800 --> 00:00:06,253
+Foreign Minister Lee Junhyeok stood
+at the window, looking down at Seoul.
 
 2
-00:00:06,293 --> 00:00:10,882
-People were walking to work, knowing nothing. He envied them.
+00:00:06,293 --> 00:00:10,842
+People were walking to work,
+knowing nothing. He envied them.
 
 3
-00:00:10,882 --> 00:00:14,720
-The cable from the U.S. Embassy was two lines long.
+00:00:10,882 --> 00:00:14,680
+The cable from the U.S.
+Embassy was two lines long.
 
 4
-00:00:14,720 --> 00:00:17,654
+00:00:14,720 --> 00:00:17,614
 A request to join the Hormuz operation.
 
 5
-00:00:17,654 --> 00:00:20,965
-An answer required within twenty-four hours.
+00:00:17,654 --> 00:00:20,925
+An answer required within
+twenty-four hours.
 
 6
-00:00:20,965 --> 00:00:24,426
-The reply had already gone out under his name.
+00:00:20,965 --> 00:00:24,386
+The reply had already
+gone out under his name.
 
 7
-00:00:24,426 --> 00:00:29,843
-Formal regrets, constitutional constraints, a strong call for diplomacy.
+00:00:24,426 --> 00:00:29,803
+Formal regrets, constitutional
+constraints, a strong call for diplomacy.
 
 8
-00:00:29,843 --> 00:00:32,853
+00:00:29,843 --> 00:00:32,813
 “Tell them there's no official reaction.
 
 9
-00:00:32,853 --> 00:00:36,690
-We support it, but we won't take part. That's all.”
+00:00:32,853 --> 00:00:36,650
+We support it, but we won't
+take part. That's all.”
 
 10
-00:00:36,690 --> 00:00:44,816
-When one nation leaves another alone on the battlefield, it is always done in a properly formatted document.
+00:00:36,690 --> 00:00:40,903
+When one nation leaves another
+alone on the battlefield,
 
+11
+00:00:40,943 --> 00:00:44,816
+it is always done in a
+properly formatted document.

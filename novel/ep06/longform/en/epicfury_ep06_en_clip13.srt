@@ -1,52 +1,67 @@
 1
-00:00:00,800 --> 00:00:03,283
+00:00:00,800 --> 00:00:03,243
 In Tehran, Larijani was dead.
 
 2
-00:00:03,283 --> 00:00:06,707
+00:00:03,283 --> 00:00:06,667
 In Ramat Gan, two civilians were killed.
 
 3
-00:00:06,707 --> 00:00:10,645
-In southern Lebanon, tanks crossed the border.
+00:00:06,707 --> 00:00:10,605
+In southern Lebanon,
+tanks crossed the border.
 
 4
-00:00:10,645 --> 00:00:12,786
+00:00:10,645 --> 00:00:12,746
 In Kuwait, a child cried.
 
 5
-00:00:12,786 --> 00:00:16,296
+00:00:12,786 --> 00:00:16,256
 In Seoul, a minister looked out a window.
 
 6
-00:00:16,296 --> 00:00:28,880
-And millions of people, watching the news, turned off their screens — not because it was unbearable, but because they had seen too much to feel it.
+00:00:16,296 --> 00:00:22,203
+And millions of people, watching the
+news, turned off their screens —
 
 7
-00:00:28,880 --> 00:00:36,757
-Rumi's Masnavi begins: “Listen to the reed, how it tells a tale, complaining of separation.”
+00:00:22,243 --> 00:00:28,840
+not because it was unbearable, but because
+they had seen too much to feel it.
 
 8
-00:00:36,757 --> 00:00:42,236
-A reed only makes a sound once it's been torn from the reed bed.
+00:00:28,880 --> 00:00:32,562
+Rumi's Masnavi begins:
+“Listen to the reed,
 
 9
-00:00:42,236 --> 00:00:48,742
-Whether that sound is a melody or a scream depends on the ear that hears it.
+00:00:32,602 --> 00:00:36,717
+how it tells a tale,
+complaining of separation.”
 
 10
-00:00:48,742 --> 00:00:52,338
-The cruelest moment of war isn't the bomb.
+00:00:36,757 --> 00:00:42,196
+A reed only makes a sound once
+it's been torn from the reed bed.
 
 11
-00:00:52,338 --> 00:00:54,735
-It's when we get used to it.
+00:00:42,236 --> 00:00:48,702
+Whether that sound is a melody or a
+scream depends on the ear that hears it.
 
 12
-00:00:54,735 --> 00:00:56,362
-— End of Episode 6.
+00:00:48,742 --> 00:00:52,298
+The cruelest moment of war isn't the bomb.
 
 13
-00:00:56,362 --> 00:01:00,385
-Continued in Episode 7, “Fire at South Pars.” —
+00:00:52,338 --> 00:00:54,695
+It's when we get used to it.
 
+14
+00:00:54,735 --> 00:00:56,322
+— End of Episode 6.
+
+15
+00:00:56,362 --> 00:01:00,385
+Continued in Episode 7,
+“Fire at South Pars.” —

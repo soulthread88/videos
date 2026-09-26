@@ -1,524 +1,637 @@
 1
-00:00:00,800 --> 00:00:02,178
+00:00:00,800 --> 00:00:02,138
 Day 17 of the war.
 
 2
-00:00:02,178 --> 00:00:09,299
-The United States formally asked its allies for military help to reopen the Strait of Hormuz.
+00:00:02,178 --> 00:00:05,776
+The United States formally
+asked its allies for
 
 3
-00:00:09,299 --> 00:00:10,907
-France refused first.
+00:00:05,816 --> 00:00:09,259
+military help to reopen
+the Strait of Hormuz.
 
 4
-00:00:10,907 --> 00:00:14,200
-Germany, Italy, Spain and Belgium followed.
+00:00:09,299 --> 00:00:10,867
+France refused first.
 
 5
-00:00:14,200 --> 00:00:15,578
-China refused too.
+00:00:10,907 --> 00:00:14,160
+Germany, Italy, Spain
+and Belgium followed.
 
 6
-00:00:15,578 --> 00:00:24,153
-Within two hours the call was over, and President Trump issued a sharply worded statement condemning the allies.
+00:00:14,200 --> 00:00:15,538
+China refused too.
 
 7
-00:00:26,353 --> 00:00:32,537
-South Korea, Japan and Australia also declined to join the Hormuz coalition.
+00:00:15,578 --> 00:00:18,242
+Within two hours the call was over,
 
 8
-00:00:32,537 --> 00:00:40,186
-All three cited constitutional limits on sending forces abroad without parliamentary approval.
+00:00:18,282 --> 00:00:24,153
+and President Trump issued a sharply
+worded statement condemning the allies.
 
 9
-00:00:40,186 --> 00:00:47,590
-Seoul pledged only $500,000 in humanitarian aid and position data for Korean-flagged ships.
+00:00:26,353 --> 00:00:32,497
+South Korea, Japan and Australia also
+declined to join the Hormuz coalition.
 
 10
-00:00:47,590 --> 00:00:53,286
-Trump answered the allies with a declaration: America would win alone.
+00:00:32,537 --> 00:00:36,445
+All three cited constitutional
+limits on sending
 
 11
-00:00:55,486 --> 00:00:57,107
-Day 18, before dawn.
+00:00:36,485 --> 00:00:40,146
+forces abroad without
+parliamentary approval.
 
 12
-00:00:57,107 --> 00:01:03,431
-With U.S. cooperation, Israel struck several senior Iranian officials at once.
+00:00:40,186 --> 00:00:42,099
+Seoul pledged only $500,
 
 13
-00:01:03,431 --> 00:01:14,215
-At 5:12 AM, Iranian state TV confirmed the deaths of former parliament speaker Ali Larijani and Basij commander Gholamreza Soleimani.
+00:00:42,139 --> 00:00:47,550
+000 in humanitarian aid and position
+data for Korean-flagged ships.
 
 14
-00:01:14,215 --> 00:01:18,918
-The oldest channel in Iran's nuclear diplomacy had closed.
+00:00:47,590 --> 00:00:53,286
+Trump answered the allies with a
+declaration: America would win alone.
 
 15
-00:01:21,118 --> 00:01:25,792
-Iran's retaliation began one hour and forty-two minutes later.
+00:00:55,486 --> 00:00:57,067
+Day 18, before dawn.
 
 16
-00:01:25,792 --> 00:01:31,219
-Ballistic missiles hit central Ramat Gan, killing two Israeli civilians.
+00:00:57,107 --> 00:01:03,391
+With U.S. cooperation, Israel struck
+several senior Iranian officials at once.
 
 17
-00:01:31,219 --> 00:01:36,496
-That afternoon, Israel launched a ground invasion of southern Lebanon.
+00:01:03,431 --> 00:01:09,110
+At 5:12 AM, Iranian state TV confirmed
+the deaths of former parliament
 
 18
-00:01:36,496 --> 00:01:43,583
-UNICEF announced that more than 1,100 children had been killed or wounded since the war began.
+00:01:09,150 --> 00:01:14,175
+speaker Ali Larijani and Basij
+commander Gholamreza Soleimani.
 
 19
-00:01:45,783 --> 00:01:51,202
-There were fourteen monitors, and every one of them turned red at once.
+00:01:14,215 --> 00:01:18,918
+The oldest channel in Iran's
+nuclear diplomacy had closed.
 
 20
-00:01:51,202 --> 00:01:56,546
-National Security Adviser Brian Collins did not get up from his chair.
+00:01:21,118 --> 00:01:25,752
+Iran's retaliation began one hour
+and forty-two minutes later.
 
 21
-00:01:56,546 --> 00:02:02,271
-The most dangerous moment in a war isn't when everyone jumps to their feet.
+00:01:25,792 --> 00:01:31,179
+Ballistic missiles hit central Ramat
+Gan, killing two Israeli civilians.
 
 22
-00:02:02,271 --> 00:02:03,950
-It's when no one does.
+00:01:31,219 --> 00:01:36,456
+That afternoon, Israel launched a
+ground invasion of southern Lebanon.
 
 23
-00:02:03,950 --> 00:02:06,087
-Confusion makes people move.
+00:01:36,496 --> 00:01:39,019
+UNICEF announced that more than 1,
 
 24
-00:02:06,087 --> 00:02:08,072
-Panic makes them go still.
+00:01:39,059 --> 00:01:43,583
+100 children had been killed or
+wounded since the war began.
 
 25
-00:02:08,072 --> 00:02:11,659
-“NATO's out, sir. Japan too. Korea. Australia.”
+00:01:45,783 --> 00:01:51,162
+There were fourteen monitors, and
+every one of them turned red at once.
 
 26
-00:02:11,659 --> 00:02:13,797
-His aide kept his voice low.
+00:01:51,202 --> 00:01:56,506
+National Security Adviser Brian
+Collins did not get up from his chair.
 
 27
-00:02:13,797 --> 00:02:15,629
-Collins didn't even nod.
+00:01:56,546 --> 00:02:02,231
+The most dangerous moment in a war isn't
+when everyone jumps to their feet.
 
 28
-00:02:15,629 --> 00:02:17,995
-An alliance was never a person.
+00:02:02,271 --> 00:02:03,910
+It's when no one does.
 
 29
-00:02:17,995 --> 00:02:23,872
-An alliance was a system, and systems always flow toward their own interests.
+00:02:03,950 --> 00:02:06,047
+Confusion makes people move.
 
 30
+00:02:06,087 --> 00:02:08,032
+Panic makes them go still.
+
+31
+00:02:08,072 --> 00:02:11,619
+“NATO's out, sir. Japan
+too. Korea. Australia.”
+
+32
+00:02:11,659 --> 00:02:13,757
+His aide kept his voice low.
+
+33
+00:02:13,797 --> 00:02:15,589
+Collins didn't even nod.
+
+34
+00:02:15,629 --> 00:02:17,955
+An alliance was never a person.
+
+35
+00:02:17,995 --> 00:02:23,832
+An alliance was a system, and systems
+always flow toward their own interests.
+
+36
 00:02:23,872 --> 00:02:26,926
 A war you start alone, you finish alone.
 
-31
-00:02:29,126 --> 00:02:34,618
-Foreign Minister Lee Junhyeok stood at the window, looking down at Seoul.
-
-32
-00:02:34,618 --> 00:02:39,208
-People were walking to work, knowing nothing. He envied them.
-
-33
-00:02:39,208 --> 00:02:43,045
-The cable from the U.S. Embassy was two lines long.
-
-34
-00:02:43,045 --> 00:02:45,980
-A request to join the Hormuz operation.
-
-35
-00:02:45,980 --> 00:02:49,290
-An answer required within twenty-four hours.
-
-36
-00:02:49,290 --> 00:02:52,752
-The reply had already gone out under his name.
-
 37
-00:02:52,752 --> 00:02:58,169
-Formal regrets, constitutional constraints, a strong call for diplomacy.
+00:02:29,126 --> 00:02:34,578
+Foreign Minister Lee Junhyeok stood
+at the window, looking down at Seoul.
 
 38
-00:02:58,169 --> 00:03:01,179
-“Tell them there's no official reaction.
+00:02:34,618 --> 00:02:39,168
+People were walking to work,
+knowing nothing. He envied them.
 
 39
-00:03:01,179 --> 00:03:05,016
-We support it, but we won't take part. That's all.”
+00:02:39,208 --> 00:02:43,005
+The cable from the U.S.
+Embassy was two lines long.
 
 40
-00:03:05,016 --> 00:03:13,142
-When one nation leaves another alone on the battlefield, it is always done in a properly formatted document.
+00:02:43,045 --> 00:02:45,940
+A request to join the Hormuz operation.
 
 41
-00:03:15,342 --> 00:03:17,423
-The children were asleep.
+00:02:45,980 --> 00:02:49,250
+An answer required within
+twenty-four hours.
 
 42
-00:03:17,423 --> 00:03:23,581
-Fatima al-Rashid had put all three to bed and sat down in the living room.
+00:02:49,290 --> 00:02:52,712
+The reply had already
+gone out under his name.
 
 43
-00:03:23,581 --> 00:03:27,326
-Since the war began, every sound had changed.
+00:02:52,752 --> 00:02:58,129
+Formal regrets, constitutional
+constraints, a strong call for diplomacy.
 
 44
-00:03:27,326 --> 00:03:30,073
-An engine sounded like a missile.
+00:02:58,169 --> 00:03:01,139
+“Tell them there's no official reaction.
 
 45
-00:03:30,073 --> 00:03:32,819
-Lightning felt like an explosion.
+00:03:01,179 --> 00:03:04,976
+We support it, but we won't
+take part. That's all.”
 
 46
-00:03:32,819 --> 00:03:39,560
-That night, an Iranian drone struck an eight-story apartment building in Salmiya.
+00:03:05,016 --> 00:03:09,229
+When one nation leaves another
+alone on the battlefield,
 
 47
-00:03:39,560 --> 00:03:41,058
-The ceiling shook.
+00:03:09,269 --> 00:03:13,142
+it is always done in a
+properly formatted document.
 
 48
-00:03:41,058 --> 00:03:46,052
-Her youngest was crying — five years old, not even sure why.
+00:03:15,342 --> 00:03:17,383
+The children were asleep.
 
 49
-00:03:46,052 --> 00:03:50,546
-Something was frightening, and that was reason enough.
+00:03:17,423 --> 00:03:23,541
+Fatima al-Rashid had put all three to
+bed and sat down in the living room.
 
 50
-00:03:50,546 --> 00:03:54,041
-Fatima held her and looked out the window.
+00:03:23,581 --> 00:03:27,286
+Since the war began,
+every sound had changed.
 
 51
-00:03:54,041 --> 00:03:57,287
-Smoke rose from the building next door.
+00:03:27,326 --> 00:03:30,033
+An engine sounded like a missile.
 
 52
-00:03:57,287 --> 00:03:59,035
-There were no lights.
+00:03:30,073 --> 00:03:32,779
+Lightning felt like an explosion.
 
 53
-00:03:59,035 --> 00:04:01,781
-Wars are fought between soldiers.
+00:03:32,819 --> 00:03:39,520
+That night, an Iranian drone struck an
+eight-story apartment building in Salmiya.
 
 54
-00:04:01,781 --> 00:04:08,606
-But in the darkness a war leaves behind, the ones who cry are always the children.
+00:03:39,560 --> 00:03:41,018
+The ceiling shook.
 
 55
-00:04:10,806 --> 00:04:13,516
-Altitude: twelve thousand meters.
+00:03:41,058 --> 00:03:46,012
+Her youngest was crying — five
+years old, not even sure why.
 
 56
-00:04:13,516 --> 00:04:16,965
-The Israeli pilot checked the coordinates.
+00:03:46,052 --> 00:03:50,506
+Something was frightening,
+and that was reason enough.
 
 57
-00:04:16,965 --> 00:04:18,771
-Then he checked again.
+00:03:50,546 --> 00:03:54,001
+Fatima held her and looked out the window.
 
 58
-00:04:18,771 --> 00:04:21,153
-The target was not a soldier.
+00:03:54,041 --> 00:03:57,247
+Smoke rose from the building next door.
 
 59
-00:04:21,153 --> 00:04:27,476
-But in war, the line between civilians and the powerful exists only on paper.
+00:03:57,287 --> 00:03:58,995
+There were no lights.
 
 60
-00:04:27,476 --> 00:04:34,374
-He thought of his mother in Haifa — the woman who never wanted her son in this seat.
+00:03:59,035 --> 00:04:01,741
+Wars are fought between soldiers.
 
 61
-00:04:34,374 --> 00:04:39,630
-The release button is pressed with two fingers. That's the rule.
+00:04:01,781 --> 00:04:08,606
+But in the darkness a war leaves behind,
+the ones who cry are always the children.
 
 62
-00:04:39,630 --> 00:04:41,601
-One finger is a mistake.
+00:04:10,806 --> 00:04:13,476
+Altitude: twelve thousand meters.
 
 63
-00:04:41,601 --> 00:04:44,146
-Two fingers make it a decision.
+00:04:13,516 --> 00:04:16,925
+The Israeli pilot checked the coordinates.
 
 64
-00:04:44,146 --> 00:04:46,282
-There were two explosions.
+00:04:16,965 --> 00:04:18,731
+Then he checked again.
 
 65
-00:04:46,282 --> 00:04:48,581
-The first took off the roof.
+00:04:18,771 --> 00:04:21,113
+The target was not a soldier.
 
 66
-00:04:48,581 --> 00:04:50,880
-No one remembers the second.
+00:04:21,153 --> 00:04:27,436
+But in war, the line between civilians
+and the powerful exists only on paper.
 
 67
-00:04:50,880 --> 00:04:54,822
-Memory only reaches as far as the moment before.
+00:04:27,476 --> 00:04:34,334
+He thought of his mother in Haifa — the
+woman who never wanted her son in this seat.
 
 68
-00:04:57,022 --> 00:05:00,561
-The siren had sounded six minutes earlier.
+00:04:34,374 --> 00:04:39,590
+The release button is pressed with
+two fingers. That's the rule.
 
 69
-00:05:00,561 --> 00:05:05,280
-David Levy, seventy-two, did not go down to the shelter.
+00:04:39,630 --> 00:04:41,561
+One finger is a mistake.
 
 70
-00:05:05,280 --> 00:05:08,482
-He had lived through 1967, 1973, 2006.
+00:04:41,601 --> 00:04:44,106
+Two fingers make it a decision.
 
 71
-00:05:08,482 --> 00:05:10,926
-He had heard too many sirens.
+00:04:44,146 --> 00:04:46,242
+There were two explosions.
 
 72
-00:05:10,926 --> 00:05:12,864
-He stood at his window.
+00:04:46,282 --> 00:04:48,541
+The first took off the roof.
 
 73
-00:05:12,864 --> 00:05:18,004
-In the early morning, Ramat Gan glowed the color of a sunset.
+00:04:48,581 --> 00:04:50,840
+No one remembers the second.
 
 74
-00:05:18,004 --> 00:05:19,605
-The glass trembled.
+00:04:50,880 --> 00:04:54,822
+Memory only reaches as
+far as the moment before.
 
 75
-00:05:19,605 --> 00:05:23,228
-The next moment, he was lying on the floor.
+00:04:57,022 --> 00:05:00,521
+The siren had sounded six minutes earlier.
 
 76
-00:05:23,228 --> 00:05:26,178
-The sound had gone out of his ears.
+00:05:00,561 --> 00:05:05,240
+David Levy, seventy-two, did
+not go down to the shelter.
 
 77
-00:05:26,178 --> 00:05:31,233
-The ceiling was cracked, and dust drifted down. This is war.
+00:05:05,280 --> 00:05:08,442
+He had lived through 1967, 1973, 2006.
 
 78
-00:05:31,233 --> 00:05:34,098
-Not because I didn't take shelter.
+00:05:08,482 --> 00:05:10,886
+He had heard too many sirens.
 
 79
-00:05:34,098 --> 00:05:37,132
-Because the war came looking for me.
+00:05:10,926 --> 00:05:12,824
+He stood at his window.
 
 80
-00:05:37,132 --> 00:05:39,407
-Civilians never choose war.
+00:05:12,864 --> 00:05:17,964
+In the early morning, Ramat Gan
+glowed the color of a sunset.
 
 81
+00:05:18,004 --> 00:05:19,565
+The glass trembled.
+
+82
+00:05:19,605 --> 00:05:23,188
+The next moment, he was
+lying on the floor.
+
+83
+00:05:23,228 --> 00:05:26,138
+The sound had gone out of his ears.
+
+84
+00:05:26,178 --> 00:05:31,193
+The ceiling was cracked, and
+dust drifted down. This is war.
+
+85
+00:05:31,233 --> 00:05:34,058
+Not because I didn't take shelter.
+
+86
+00:05:34,098 --> 00:05:37,092
+Because the war came looking for me.
+
+87
+00:05:37,132 --> 00:05:39,367
+Civilians never choose war.
+
+88
 00:05:39,407 --> 00:05:42,188
 But war always chooses civilians.
 
-82
-00:05:44,388 --> 00:05:51,834
-The treads of a Merkava tank were far quieter than people imagine. Silent. Ominously silent.
-
-83
-00:05:51,834 --> 00:05:59,928
-For Mohammad Kasser at a Hezbollah lookout post, the tanks he couldn't see were the most terrifying.
-
-84
-00:05:59,928 --> 00:06:04,622
-If you could see them, at least you knew which way to run.
-
-85
-00:06:04,622 --> 00:06:06,807
-This was not an air strike.
-
-86
-00:06:06,807 --> 00:06:09,640
-Air strikes came down from the sky.
-
-87
-00:06:09,640 --> 00:06:14,172
-This came across the ground. Armor. Infantry. Artillery.
-
-88
-00:06:14,172 --> 00:06:16,034
-The oldest form of war.
-
 89
-00:06:16,034 --> 00:06:17,896
-He picked up his AK-47.
+00:05:44,388 --> 00:05:49,748
+The treads of a Merkava tank were
+far quieter than people imagine.
 
 90
-00:06:17,896 --> 00:06:19,1000
-He couldn't shoot the sky.
+00:05:49,788 --> 00:05:51,794
+Silent. Ominously silent.
 
 91
-00:06:19,1000 --> 00:06:22,023
-He couldn't stop a drone.
+00:05:51,834 --> 00:05:55,718
+For Mohammad Kasser at a
+Hezbollah lookout post,
 
 92
-00:06:22,023 --> 00:06:24,290
-A border is a line on a map.
+00:05:55,758 --> 00:05:59,888
+the tanks he couldn't see
+were the most terrifying.
 
 93
-00:06:24,290 --> 00:06:28,822
-Tank treads roll right over it — and the line is erased.
+00:05:59,928 --> 00:06:04,582
+If you could see them, at least
+you knew which way to run.
 
 94
-00:06:31,022 --> 00:06:32,589
-There was a number.
+00:06:04,622 --> 00:06:06,767
+This was not an air strike.
 
 95
-00:06:32,589 --> 00:06:34,651
-More than eleven hundred.
+00:06:06,807 --> 00:06:09,600
+Air strikes came down from the sky.
 
 96
-00:06:34,651 --> 00:06:36,301
-Two hundred in Iran.
+00:06:09,640 --> 00:06:14,132
+This came across the ground.
+Armor. Infantry. Artillery.
 
 97
-00:06:36,301 --> 00:06:40,672
-Ninety-one in Lebanon. Four in Israel. One in Kuwait.
+00:06:14,172 --> 00:06:15,994
+The oldest form of war.
 
 98
-00:06:40,672 --> 00:06:45,785
-The report had no names in it. Only numbers. Numbers are tidy.
+00:06:16,034 --> 00:06:17,856
+He picked up his AK-47.
 
 99
-00:06:45,785 --> 00:06:47,847
-Children's names are not.
+00:06:17,896 --> 00:06:19,960
+He couldn't shoot the sky.
 
 100
-00:06:47,847 --> 00:06:50,239
-In Isfahan, Zahra was twelve.
+00:06:20,000 --> 00:06:21,983
+He couldn't stop a drone.
 
 101
-00:06:50,239 --> 00:06:55,847
-She fell on a stairwell while running for shelter and hurt her head.
+00:06:22,023 --> 00:06:24,250
+A border is a line on a map.
 
 102
-00:06:55,847 --> 00:06:58,569
-It wasn't a missile. It was fear.
+00:06:24,290 --> 00:06:28,822
+Tank treads roll right over
+it — and the line is erased.
 
 103
-00:06:58,569 --> 00:07:00,878
-In Nabatieh, Youssef is six.
+00:06:31,022 --> 00:06:32,549
+There was a number.
 
 104
-00:07:00,878 --> 00:07:04,755
-He is alive, but his right ear no longer hears.
+00:06:32,589 --> 00:06:34,611
+More than eleven hundred.
 
 105
-00:07:04,755 --> 00:07:08,301
-Children don't know why anyone is fighting.
+00:06:34,651 --> 00:06:36,261
+Two hundred in Iran.
 
 106
-00:07:08,301 --> 00:07:10,033
-Adults think they do.
+00:06:36,301 --> 00:06:40,632
+Ninety-one in Lebanon. Four
+in Israel. One in Kuwait.
 
 107
+00:06:40,672 --> 00:06:45,745
+The report had no names in it.
+Only numbers. Numbers are tidy.
+
+108
+00:06:45,785 --> 00:06:47,807
+Children's names are not.
+
+109
+00:06:47,847 --> 00:06:50,199
+In Isfahan, Zahra was twelve.
+
+110
+00:06:50,239 --> 00:06:55,807
+She fell on a stairwell while running
+for shelter and hurt her head.
+
+111
+00:06:55,847 --> 00:06:58,529
+It wasn't a missile. It was fear.
+
+112
+00:06:58,569 --> 00:07:00,838
+In Nabatieh, Youssef is six.
+
+113
+00:07:00,878 --> 00:07:04,715
+He is alive, but his right
+ear no longer hears.
+
+114
+00:07:04,755 --> 00:07:08,261
+Children don't know why
+anyone is fighting.
+
+115
+00:07:08,301 --> 00:07:09,993
+Adults think they do.
+
+116
 00:07:10,033 --> 00:07:13,497
 That difference is what makes all of this.
 
-108
-00:07:15,697 --> 00:07:21,554
-Lieutenant Kim Junho watched the screens in the combat information center.
-
-109
-00:07:21,554 --> 00:07:27,806
-A Korean Navy liaison officer, his job was to send Seoul what he saw and heard.
-
-110
-00:07:27,806 --> 00:07:32,159
-Larijani's name appeared on the list of confirmed dead.
-
-111
-00:07:32,159 --> 00:07:38,174
-“I hear Trump went after Korea too?” asked U.S. Navy officer Mark Henderson.
-
-112
-00:07:38,174 --> 00:07:41,102
-“No official reaction from our side.”
-
-113
-00:07:41,102 --> 00:07:43,477
-Henderson gave a bitter laugh.
-
-114
-00:07:43,477 --> 00:07:44,901
-“That's diplomacy.
-
-115
-00:07:44,901 --> 00:07:49,492
-Saying nothing is still saying something.” Kim didn't nod.
-
-116
-00:07:49,492 --> 00:07:55,586
-On a carrier before dawn, he wasn't sure saying nothing was really all right.
-
 117
-00:07:55,586 --> 00:07:57,643
-Watching was a choice too.
+00:07:15,697 --> 00:07:21,514
+Lieutenant Kim Junho watched the screens
+in the combat information center.
 
 118
+00:07:21,554 --> 00:07:27,766
+A Korean Navy liaison officer, his job
+was to send Seoul what he saw and heard.
+
+119
+00:07:27,806 --> 00:07:32,119
+Larijani's name appeared on
+the list of confirmed dead.
+
+120
+00:07:32,159 --> 00:07:38,134
+“I hear Trump went after Korea too?”
+asked U.S. Navy officer Mark Henderson.
+
+121
+00:07:38,174 --> 00:07:41,062
+“No official reaction from our side.”
+
+122
+00:07:41,102 --> 00:07:43,437
+Henderson gave a bitter laugh.
+
+123
+00:07:43,477 --> 00:07:44,861
+“That's diplomacy.
+
+124
+00:07:44,901 --> 00:07:49,452
+Saying nothing is still saying
+something.” Kim didn't nod.
+
+125
+00:07:49,492 --> 00:07:55,546
+On a carrier before dawn, he wasn't sure
+saying nothing was really all right.
+
+126
+00:07:55,586 --> 00:07:57,603
+Watching was a choice too.
+
+127
 00:07:57,643 --> 00:08:00,967
 And every choice came with responsibility.
 
-119
-00:08:03,167 --> 00:08:05,650
+128
+00:08:03,167 --> 00:08:05,610
 In Tehran, Larijani was dead.
 
-120
-00:08:05,650 --> 00:08:09,075
+129
+00:08:05,650 --> 00:08:09,035
 In Ramat Gan, two civilians were killed.
 
-121
-00:08:09,075 --> 00:08:13,013
-In southern Lebanon, tanks crossed the border.
-
-122
-00:08:13,013 --> 00:08:15,153
-In Kuwait, a child cried.
-
-123
-00:08:15,153 --> 00:08:18,663
-In Seoul, a minister looked out a window.
-
-124
-00:08:18,663 --> 00:08:31,248
-And millions of people, watching the news, turned off their screens — not because it was unbearable, but because they had seen too much to feel it.
-
-125
-00:08:31,248 --> 00:08:39,124
-Rumi's Masnavi begins: “Listen to the reed, how it tells a tale, complaining of separation.”
-
-126
-00:08:39,124 --> 00:08:44,603
-A reed only makes a sound once it's been torn from the reed bed.
-
-127
-00:08:44,603 --> 00:08:51,110
-Whether that sound is a melody or a scream depends on the ear that hears it.
-
-128
-00:08:51,110 --> 00:08:54,705
-The cruelest moment of war isn't the bomb.
-
-129
-00:08:54,705 --> 00:08:57,102
-It's when we get used to it.
-
 130
-00:08:57,102 --> 00:08:58,729
-— End of Episode 6.
+00:08:09,075 --> 00:08:12,973
+In southern Lebanon,
+tanks crossed the border.
 
 131
-00:08:58,729 --> 00:09:02,753
-Continued in Episode 7, “Fire at South Pars.” —
+00:08:13,013 --> 00:08:15,113
+In Kuwait, a child cried.
 
+132
+00:08:15,153 --> 00:08:18,623
+In Seoul, a minister looked out a window.
+
+133
+00:08:18,663 --> 00:08:24,571
+And millions of people, watching the
+news, turned off their screens —
+
+134
+00:08:24,611 --> 00:08:31,208
+not because it was unbearable, but because
+they had seen too much to feel it.
+
+135
+00:08:31,248 --> 00:08:34,930
+Rumi's Masnavi begins:
+“Listen to the reed,
+
+136
+00:08:34,970 --> 00:08:39,084
+how it tells a tale,
+complaining of separation.”
+
+137
+00:08:39,124 --> 00:08:44,563
+A reed only makes a sound once
+it's been torn from the reed bed.
+
+138
+00:08:44,603 --> 00:08:51,070
+Whether that sound is a melody or a
+scream depends on the ear that hears it.
+
+139
+00:08:51,110 --> 00:08:54,665
+The cruelest moment of war isn't the bomb.
+
+140
+00:08:54,705 --> 00:08:57,062
+It's when we get used to it.
+
+141
+00:08:57,102 --> 00:08:58,689
+— End of Episode 6.
+
+142
+00:08:58,729 --> 00:09:02,753
+Continued in Episode 7,
+“Fire at South Pars.” —
