@@ -1,40 +1,65 @@
 1
-00:00:00,800 --> 00:00:03,302
+00:00:00,800 --> 00:00:03,262
 The air conditioning was broken.
 
 2
-00:00:03,302 --> 00:00:05,569
+00:00:03,302 --> 00:00:05,529
 Twelve people sweated anyway.
 
 3
-00:00:05,569 --> 00:00:17,297
-The U.S. deputy assistant secretary sat across from Iran's IRGC political liaison, with a Pakistani mediator between them who officially wasn't there.
+00:00:05,569 --> 00:00:11,983
+The U.S. deputy assistant secretary sat
+across from Iran's IRGC political liaison,
 
 4
-00:00:17,297 --> 00:00:20,737
-“Seventy-two hours,” the American side said.
+00:00:12,023 --> 00:00:17,257
+with a Pakistani mediator between
+them who officially wasn't there.
 
 5
-00:00:20,737 --> 00:00:27,930
-“In exchange: no new mines in Hormuz, no new ballistic launches, and IAEA access to Fordow.”
+00:00:17,297 --> 00:00:20,697
+“Seventy-two hours,”
+the American side said.
 
 6
-00:00:27,930 --> 00:00:31,917
-The Iranian liaison said nothing for a long moment.
+00:00:20,737 --> 00:00:23,622
+“In exchange: no new mines in Hormuz,
 
 7
-00:00:31,917 --> 00:00:35,905
-“Fordow,” he finally said, “is not on this agenda.”
+00:00:23,662 --> 00:00:27,890
+no new ballistic launches,
+and IAEA access to Fordow.”
 
 8
-00:00:35,905 --> 00:00:43,020
-“There's a signal coming out of Fordow,” the American side answered — quietly, but clearly.
+00:00:27,930 --> 00:00:31,877
+The Iranian liaison said
+nothing for a long moment.
 
 9
-00:00:43,020 --> 00:00:48,336
-“Without that, there's nothing to discuss beyond seventy-two hours.”
+00:00:31,917 --> 00:00:35,865
+“Fordow,” he finally said,
+“is not on this agenda.”
 
 10
-00:00:48,336 --> 00:00:56,702
-Wars begin with gunfire, but their real weight is often decided in rooms where no one says anything at all.
+00:00:35,905 --> 00:00:39,027
+“There's a signal coming out of Fordow,”
 
+11
+00:00:39,067 --> 00:00:42,980
+the American side answered
+— quietly, but clearly.
+
+12
+00:00:43,020 --> 00:00:48,296
+“Without that, there's nothing to
+discuss beyond seventy-two hours.”
+
+13
+00:00:48,336 --> 00:00:52,637
+Wars begin with gunfire, but
+their real weight is often
+
+14
+00:00:52,677 --> 00:00:56,702
+decided in rooms where no
+one says anything at all.

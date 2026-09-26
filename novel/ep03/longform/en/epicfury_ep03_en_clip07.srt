@@ -1,48 +1,81 @@
 1
-00:00:00,800 --> 00:00:04,532
-Dr. Leila Shirazi checked the signal three times.
+00:00:00,800 --> 00:00:04,492
+Dr. Leila Shirazi checked
+the signal three times.
 
 2
-00:00:04,532 --> 00:00:08,570
-First she thought it was an error, then interference.
+00:00:04,532 --> 00:00:08,530
+First she thought it was an
+error, then interference.
 
 3
-00:00:08,570 --> 00:00:12,530
-By the third check, she couldn't deny it any longer.
+00:00:08,570 --> 00:00:12,490
+By the third check, she
+couldn't deny it any longer.
 
 4
-00:00:12,530 --> 00:00:19,462
-Five days after two bunker-busters hit Fordow, the assessment had read “fully neutralized.”
+00:00:12,530 --> 00:00:16,033
+Five days after two
+bunker-busters hit Fordow,
 
 5
-00:00:19,462 --> 00:00:27,079
-But the signal held a regular rhythm inside its irregularity — a truly dead system couldn't do that.
+00:00:16,073 --> 00:00:19,422
+the assessment had read
+“fully neutralized.”
 
 6
-00:00:27,079 --> 00:00:29,288
-She began writing the report.
+00:00:19,462 --> 00:00:24,192
+But the signal held a regular
+rhythm inside its irregularity —
 
 7
-00:00:29,288 --> 00:00:44,370
-The last transmission from a source codenamed ZARRIN, routed through the Islamabad channel, had arrived with seven coordinates for a surviving sublevel and one line: “This is the last transmission.”
+00:00:24,232 --> 00:00:27,039
+a truly dead system couldn't do that.
 
 8
-00:00:44,370 --> 00:00:47,112
-The source's safety was in question.
+00:00:27,079 --> 00:00:29,248
+She began writing the report.
 
 9
-00:00:47,112 --> 00:00:54,120
-Seven months ago she'd written that only a kinetic intervention could change the trajectory.
+00:00:29,288 --> 00:00:33,347
+The last transmission from
+a source codenamed ZARRIN,
 
 10
-00:00:54,120 --> 00:00:56,405
-They'd made that intervention.
+00:00:33,387 --> 00:00:36,209
+routed through the Islamabad channel,
 
 11
-00:00:56,405 --> 00:01:00,976
-If it hadn't been enough — what came next, she didn't write.
+00:00:36,249 --> 00:00:41,855
+had arrived with seven coordinates for
+a surviving sublevel and one line:
 
 12
+00:00:41,895 --> 00:00:44,330
+“This is the last transmission.”
+
+13
+00:00:44,370 --> 00:00:47,072
+The source's safety was in question.
+
+14
+00:00:47,112 --> 00:00:50,306
+Seven months ago she'd written that only a
+
+15
+00:00:50,346 --> 00:00:54,080
+kinetic intervention could
+change the trajectory.
+
+16
+00:00:54,120 --> 00:00:56,365
+They'd made that intervention.
+
+17
+00:00:56,405 --> 00:01:00,936
+If it hadn't been enough — what
+came next, she didn't write.
+
+18
 00:01:00,976 --> 00:01:02,423
 Someone else would.
-

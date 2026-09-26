@@ -1,12 +1,22 @@
 1
-00:00:00,800 --> 00:00:05,693
-Dr. Leila Shirazi confirmed the Fordow signal for the third time.
+00:00:00,800 --> 00:00:05,653
+Dr. Leila Shirazi confirmed the
+Fordow signal for the third time.
 
 2
-00:00:05,693 --> 00:00:12,770
-Five days after the strike, a facility rated “fully neutralized” was pulsing again, regularly.
+00:00:05,693 --> 00:00:10,523
+Five days after the strike, a
+facility rated “fully neutralized”
 
 3
-00:00:12,770 --> 00:00:19,922
-Eighty meters underground, after two bunker-buster hits — something was still alive down there.
+00:00:10,563 --> 00:00:12,730
+was pulsing again, regularly.
 
+4
+00:00:12,770 --> 00:00:17,067
+Eighty meters underground,
+after two bunker-buster hits —
+
+5
+00:00:17,107 --> 00:00:19,922
+something was still alive down there.

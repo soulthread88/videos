@@ -1,12 +1,28 @@
 1
-00:00:00,800 --> 00:00:08,279
-The IAEA director-general raised the possibility that part of Fordow's structure had survived.
+00:00:00,800 --> 00:00:04,620
+The IAEA director-general
+raised the possibility
 
 2
-00:00:08,279 --> 00:00:21,806
-Hours later, the Israeli PM's office issued a statement: “Israel retains the right to continue unilateral operations until Iran's nuclear capability is fully eliminated.”
+00:00:04,660 --> 00:00:08,239
+that part of Fordow's
+structure had survived.
 
 3
+00:00:08,279 --> 00:00:12,748
+Hours later, the Israeli PM's
+office issued a statement:
+
+4
+00:00:12,788 --> 00:00:17,499
+“Israel retains the right to
+continue unilateral operations
+
+5
+00:00:17,539 --> 00:00:21,766
+until Iran's nuclear capability
+is fully eliminated.”
+
+6
 00:00:21,806 --> 00:00:25,068
 The 72-hour pause had no seat for Israel.
-

@@ -1,52 +1,60 @@
 1
-00:00:00,800 --> 00:00:06,975
-Captain Marcus Webb was alone on the bridge when the mine-clearance report came in.
+00:00:00,800 --> 00:00:06,935
+Captain Marcus Webb was alone on the bridge
+when the mine-clearance report came in.
 
 2
-00:00:06,975 --> 00:00:15,455
-One of the narrowest throats on earth, carrying a fifth of the world's oil, was opening again after six days shut.
+00:00:06,975 --> 00:00:12,563
+One of the narrowest throats on earth,
+carrying a fifth of the world's oil,
 
 3
-00:00:15,455 --> 00:00:21,630
-Sarah Callahan came up without her camera — for the first time since the war began.
+00:00:12,603 --> 00:00:15,415
+was opening again after six days shut.
 
 4
-00:00:21,630 --> 00:00:23,862
-“The strait's open,” she said.
+00:00:15,455 --> 00:00:21,590
+Sarah Callahan came up without her camera
+— for the first time since the war began.
 
 5
-00:00:23,862 --> 00:00:25,275
-“Limited,” he said.
+00:00:21,630 --> 00:00:23,822
+“The strait's open,” she said.
 
 6
-00:00:25,275 --> 00:00:26,838
-“Northern lane only.”
+00:00:23,862 --> 00:00:25,235
+“Limited,” he said.
 
 7
-00:00:26,838 --> 00:00:28,400
-“Still open, though.”
+00:00:25,275 --> 00:00:26,798
+“Northern lane only.”
 
 8
-00:00:28,400 --> 00:00:30,408
-He nodded without speaking.
+00:00:26,838 --> 00:00:28,360
+“Still open, though.”
 
 9
-00:00:30,408 --> 00:00:34,277
-On the horizon, the silhouette of a tanker appeared.
+00:00:28,400 --> 00:00:30,368
+He nodded without speaking.
 
 10
-00:00:34,277 --> 00:00:36,732
-“I heard about Fordow,” she said.
+00:00:30,408 --> 00:00:34,237
+On the horizon, the silhouette
+of a tanker appeared.
 
 11
-00:00:36,732 --> 00:00:39,633
-“It's not over, is it.” “Probably not.”
+00:00:34,277 --> 00:00:36,692
+“I heard about Fordow,” she said.
 
 12
-00:00:39,633 --> 00:00:44,618
-He knew that the strait opening today didn't mean the war was over.
+00:00:36,732 --> 00:00:39,593
+“It's not over, is it.” “Probably not.”
 
 13
+00:00:39,633 --> 00:00:44,578
+He knew that the strait opening
+today didn't mean the war was over.
+
+14
 00:00:44,618 --> 00:00:47,742
 Not while Fordow's signal was still alive.
-

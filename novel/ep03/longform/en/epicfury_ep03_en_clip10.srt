@@ -1,60 +1,73 @@
 1
-00:00:00,800 --> 00:00:06,340
-Captain Kim Junho sat with the phone in his hand for twenty minutes.
+00:00:00,800 --> 00:00:06,300
+Captain Kim Junho sat with the phone
+in his hand for twenty minutes.
 
 2
-00:00:06,340 --> 00:00:08,784
+00:00:06,340 --> 00:00:08,744
 Nine times he'd tried to call.
 
 3
-00:00:08,784 --> 00:00:12,776
-Nine times he'd stopped just short of the button.
+00:00:08,784 --> 00:00:12,736
+Nine times he'd stopped
+just short of the button.
 
 4
-00:00:12,776 --> 00:00:22,227
-Six days into the war, he hadn't called his parents once — afraid that his mother's voice would make all of it real.
+00:00:12,776 --> 00:00:17,503
+Six days into the war, he hadn't
+called his parents once —
 
 5
-00:00:22,227 --> 00:00:23,693
-He finally dialed.
+00:00:17,543 --> 00:00:22,187
+afraid that his mother's voice
+would make all of it real.
 
 6
-00:00:23,693 --> 00:00:28,337
-She picked up on the second ring, past midnight in Seoul.
+00:00:22,227 --> 00:00:23,653
+He finally dialed.
 
 7
-00:00:28,337 --> 00:00:29,885
-She'd been waiting.
+00:00:23,693 --> 00:00:28,297
+She picked up on the second
+ring, past midnight in Seoul.
 
 8
-00:00:29,885 --> 00:00:30,536
-“Junho.”
+00:00:28,337 --> 00:00:29,845
+She'd been waiting.
 
 9
-00:00:30,536 --> 00:00:32,655
-Two syllables were enough.
+00:00:29,885 --> 00:00:30,496
+“Junho.”
 
 10
-00:00:32,655 --> 00:00:37,543
-“I'm alive,” he said, his voice steadier than he'd expected.
+00:00:30,536 --> 00:00:32,615
+Two syllables were enough.
 
 11
-00:00:37,543 --> 00:00:39,091
-“I know,” she said.
+00:00:32,655 --> 00:00:37,503
+“I'm alive,” he said, his voice
+steadier than he'd expected.
 
 12
-00:00:39,091 --> 00:00:43,001
-“We've been watching the news. Your father too.”
+00:00:37,543 --> 00:00:39,051
+“I know,” she said.
 
 13
-00:00:43,001 --> 00:00:49,030
-A short silence, then her voice dropped to almost a whisper. “Sleep well.”
+00:00:39,091 --> 00:00:42,961
+“We've been watching the
+news. Your father too.”
 
 14
-00:00:49,030 --> 00:00:55,466
-She asked nothing else — not when he'd come home, not whether it was dangerous.
+00:00:43,001 --> 00:00:48,990
+A short silence, then her voice dropped
+to almost a whisper. “Sleep well.”
 
 15
-00:00:55,466 --> 00:01:01,169
-Not asking was how she said: I already know everything, and I'll wait.
+00:00:49,030 --> 00:00:55,426
+She asked nothing else — not when he'd
+come home, not whether it was dangerous.
 
+16
+00:00:55,466 --> 00:01:01,169
+Not asking was how she said: I already
+know everything, and I'll wait.

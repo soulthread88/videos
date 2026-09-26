@@ -1,52 +1,79 @@
 1
-00:00:00,800 --> 00:00:03,196
+00:00:00,800 --> 00:00:03,156
 Fordow's signal changed again.
 
 2
-00:00:03,196 --> 00:00:15,175
-Its strength was rising — a last surge as residual power died, a restart by Iranian technicians underground, or the third possibility she feared most.
+00:00:03,196 --> 00:00:08,174
+Its strength was rising — a last
+surge as residual power died,
 
 3
-00:00:15,175 --> 00:00:18,370
-There was no way to know which, not yet.
+00:00:08,214 --> 00:00:11,816
+a restart by Iranian
+technicians underground,
 
 4
-00:00:18,370 --> 00:00:28,193
-IAEA access needed Iran's permission; Iran's permission needed progress in the talks; progress needed Israel to stand down.
+00:00:11,856 --> 00:00:15,135
+or the third possibility she feared most.
 
 5
-00:00:28,193 --> 00:00:33,864
-She knew, in numbers, how uncertain each link in that chain really was.
+00:00:15,175 --> 00:00:18,330
+There was no way to know which, not yet.
 
 6
-00:00:33,864 --> 00:00:35,860
-She wrote another report.
+00:00:18,370 --> 00:00:21,334
+IAEA access needed Iran's permission;
 
 7
-00:00:35,860 --> 00:00:45,763
-The final line was different from the one she'd written seven months earlier: “Kinetic intervention alone is not sufficient.
+00:00:21,374 --> 00:00:25,149
+Iran's permission needed
+progress in the talks;
 
 8
-00:00:45,763 --> 00:00:47,999
-The next step is diplomatic.
+00:00:25,189 --> 00:00:28,153
+progress needed Israel to stand down.
 
 9
-00:00:47,999 --> 00:00:52,871
-Without it, Fordow's signal cannot be stopped.” She filed it.
+00:00:28,193 --> 00:00:33,824
+She knew, in numbers, how uncertain
+each link in that chain really was.
 
 10
-00:00:52,871 --> 00:00:56,146
-Ending a war is harder than starting one.
+00:00:33,864 --> 00:00:35,820
+She wrote another report.
 
 11
-00:00:56,146 --> 00:01:01,417
-Bombs bring down buildings — but a signal doesn't stop for a bomb.
+00:00:35,860 --> 00:00:42,019
+The final line was different from the
+one she'd written seven months earlier:
 
 12
-00:01:01,417 --> 00:01:02,934
-— End of Episode 3.
+00:00:42,059 --> 00:00:45,723
+“Kinetic intervention
+alone is not sufficient.
 
 13
+00:00:45,763 --> 00:00:47,959
+The next step is diplomatic.
+
+14
+00:00:47,999 --> 00:00:52,831
+Without it, Fordow's signal
+cannot be stopped.” She filed it.
+
+15
+00:00:52,871 --> 00:00:56,106
+Ending a war is harder than starting one.
+
+16
+00:00:56,146 --> 00:01:01,377
+Bombs bring down buildings — but
+a signal doesn't stop for a bomb.
+
+17
+00:01:01,417 --> 00:01:02,894
+— End of Episode 3.
+
+18
 00:01:02,934 --> 00:01:04,931
 Continued in Episode 4. —
-
