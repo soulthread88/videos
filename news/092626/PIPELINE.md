@@ -83,6 +83,7 @@ python blog_v2.py --edition <호>
 ## 8. 올리기 (작업 서버)
 - 영상 저장소 `soulthread88/videos`의 `news-<호>` 브랜치에 다음을 올린다.
   - `news/<호>/longform/<lang>/`: 쪽별 MP4, SRT, 대본
+  - `news/<호>/full/<lang>/`: 언어별 전체 영상. GitHub 한 파일 한도(100MB) 때문에 90MB 이하 조각(part1, part2 …)으로 나누며, 조각마다 따로 재생된다.
   - `news/<호>/web/`: 웹용 사본
   - `news/<호>/html/`, `news/<호>/blog/`
 - 뉴스레터 HTML과 블로그는 `web/` 사본을 쓴다. 따라서 이 브랜치가 올라가 있어야 사진과 영상이 보인다.
