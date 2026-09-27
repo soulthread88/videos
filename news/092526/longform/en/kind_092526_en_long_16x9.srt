@@ -1,847 +1,847 @@
 1
-00:00:00,500 --> 00:00:04,371
+00:00:00,500 --> 00:00:04,625
 Two North Korean POWs Captured in
 Ukraine Arrive in South Korea.
 
 2
-00:00:04,411 --> 00:00:09,535
+00:00:04,665 --> 00:00:10,125
 Ukrainian President Volodymyr Zelenskyy told
 the UN General Assembly on Sept 23 that
 
 3
-00:00:09,575 --> 00:00:14,392
+00:00:10,165 --> 00:00:15,298
 “two North Korean prisoners of war were
 recently sent to the Republic of Korea.
 
 4
-00:00:14,432 --> 00:00:17,846
+00:00:15,338 --> 00:00:18,976
 ” On Sept 24, opposition People
 Power Party lawmaker Yoo
 
 5
-00:00:17,886 --> 00:00:21,114
+00:00:19,016 --> 00:00:22,457
 Yong-won said the two “arrived
 safely a few days ago.
 
 6
-00:00:21,154 --> 00:00:24,903
+00:00:22,497 --> 00:00:26,492
 ” Both were captured in Russia’s
 Kursk region in January 2025.
 
 7
-00:00:24,943 --> 00:00:29,108
+00:00:26,532 --> 00:00:30,970
 Seoul’s presidential office said it
 had coordinated with the parties
 
 8
-00:00:29,148 --> 00:00:33,808
+00:00:31,010 --> 00:00:35,976
 involved in line with its consistent
 position of respecting their free will,
 
 9
-00:00:33,848 --> 00:00:36,653
+00:00:36,016 --> 00:00:39,006
 international law and
 humanitarian principles,
 
 10
-00:00:36,693 --> 00:00:40,302
+00:00:39,046 --> 00:00:42,892
 but declined to confirm timing
 or route for safety reasons.
 
 11
-00:00:40,342 --> 00:00:42,957
+00:00:42,932 --> 00:00:45,719
 The men will go through
 identity checks and
 
 12
-00:00:42,997 --> 00:00:46,269
+00:00:45,759 --> 00:00:49,244
 protection procedures similar
 to those for defectors.
 
 13
-00:00:47,769 --> 00:00:51,834
+00:00:50,444 --> 00:00:54,366
 Trump–Xi at the White House:
 tariff truce extended two months.
 
 14
-00:00:51,874 --> 00:00:56,336
+00:00:54,406 --> 00:00:58,710
 Xi Jinping made his first state
 visit to the White House since 2015.
 
 15
-00:00:56,376 --> 00:00:59,998
+00:00:58,750 --> 00:01:02,244
 The two sides extended their
 trade truce by two months;
 
 16
-00:01:00,038 --> 00:01:03,061
+00:01:02,284 --> 00:01:05,200
 Xi urged ‘careful handling’
 of Taiwan and said
 
 17
-00:01:03,101 --> 00:01:06,231
+00:01:05,240 --> 00:01:08,260
 AI “should always remain
 under human control. ”
 
 18
-00:01:07,731 --> 00:01:11,794
+00:01:09,460 --> 00:01:14,016
 Korea–Mexico summit: investment treaty
 revised, FTA talks to speed up.
 
 19
-00:01:11,834 --> 00:01:16,043
+00:01:14,056 --> 00:01:18,775
 President Lee Jae-myung concluded a
 revision of the bilateral investment
 
 20
-00:01:16,083 --> 00:01:20,411
+00:01:18,815 --> 00:01:23,667
 treaty after seven years of talks and
 called a trade agreement “essential.
 
 21
-00:01:20,451 --> 00:01:23,498
+00:01:23,707 --> 00:01:27,125
 ” Export-import banks set
 up $100M in export credit,
 
 22
-00:01:23,538 --> 00:01:26,526
+00:01:27,165 --> 00:01:30,517
 and the two sides launched
 a crude oil and critical
 
 23
-00:01:26,566 --> 00:01:29,654
+00:01:30,557 --> 00:01:34,015
 minerals dialogue and an AI
 cooperation declaration.
 
 24
-00:01:31,154 --> 00:01:33,078
+00:01:35,215 --> 00:01:37,405
 IMF 2. 6%, OECD 3. 7%, ADB 3.
 
 25
-00:01:33,118 --> 00:01:37,211
+00:01:37,445 --> 00:01:42,097
 2%: growth forecasts rise, but
 all warn of a ‘chip illusion’.
 
 26
-00:01:37,251 --> 00:01:42,070
+00:01:42,137 --> 00:01:47,614
 International bodies all raised Korea’s
 2026 growth outlook: IMF from 1.
 
 27
-00:01:42,110 --> 00:01:46,322
+00:01:47,654 --> 00:01:52,442
 9% to 2. 6%, OECD from 2. 6% to
 3. 7%, ADB from 2. 6% to 3. 2%.
 
 28
-00:01:46,362 --> 00:01:48,756
+00:01:52,482 --> 00:01:55,204
 Chip and AI exports drive the gains,
 
 29
-00:01:48,796 --> 00:01:53,960
+00:01:55,244 --> 00:02:01,113
 but all three say the boom is not yet
 feeding household spending or services.
 
 30
-00:01:54,000 --> 00:01:57,742
+00:02:01,153 --> 00:02:05,407
 The IMF warned of downside
 risks “proportional to gains”
 
 31
-00:01:57,782 --> 00:02:02,308
+00:02:05,447 --> 00:02:10,585
 if the AI investment cycle turns;
 the OECD sees inflation at 3. 0%.
 
 32
-00:02:03,808 --> 00:02:08,989
+00:02:11,785 --> 00:02:17,979
 Yeo Seo-jeong’s golden landing after 8
 years; K-4 kayak beats China by 0. 255s.
 
 33
-00:02:09,029 --> 00:02:14,277
+00:02:18,019 --> 00:02:24,292
 Korea won two golds on the first day of
 Chuseok at the Aichi-Nagoya Asian Games.
 
 34
-00:02:14,317 --> 00:02:16,745
+00:02:24,332 --> 00:02:27,238
 Yeo Seo-jeong took the women’s vault,
 
 35
-00:02:16,785 --> 00:02:20,147
+00:02:27,278 --> 00:02:31,300
 her first Asian Games title
 since Jakarta-Palembang
 
 36
-00:02:20,187 --> 00:02:22,948
+00:02:31,340 --> 00:02:34,644
 2018 and the gymnastics team’s first gold.
 
 37
-00:02:22,988 --> 00:02:28,440
+00:02:34,684 --> 00:02:41,201
 Cho Kwang-hee, Kim Hyo-bin, Jang Sang-won
 and Choi Min-gyu won the men’s K-4 500m —
 
 38
-00:02:28,480 --> 00:02:31,881
+00:02:41,241 --> 00:02:45,309
 Korea’s first ever — edging
 China by 0. 255 seconds.
 
 39
-00:02:31,921 --> 00:02:35,731
+00:02:45,349 --> 00:02:49,898
 Korea is third overall with 10
 gold, 12 silver, 28 bronze.
 
 40
-00:02:37,231 --> 00:02:40,634
+00:02:51,098 --> 00:02:54,664
 Writer Rhyu Si-min says the
 president ‘deceived the public’;
 
 41
-00:02:40,674 --> 00:02:42,757
+00:02:54,704 --> 00:02:56,888
 presidential office ‘regrets’ remark.
 
 42
-00:02:42,797 --> 00:02:47,466
+00:02:56,928 --> 00:03:01,820
 Rhyu Si-min said President Lee’s
 prosecution-reform plan is “completely different”
 
 43
-00:02:47,506 --> 00:02:50,624
+00:03:01,860 --> 00:03:05,127
 from what reformers and the
 Democratic Party envisioned
 
 44
-00:02:50,664 --> 00:02:53,380
+00:03:05,167 --> 00:03:08,014
 and that the president
 “has deceived the public.
 
 45
-00:02:53,420 --> 00:02:56,435
+00:03:08,054 --> 00:03:11,214
 ” On Sept 24 the presidential
 office expressed regret
 
 46
-00:02:56,475 --> 00:02:59,260
+00:03:11,254 --> 00:03:14,173
 for “distorting the
 president’s will for reform,”
 
 47
-00:02:59,300 --> 00:03:01,566
+00:03:14,213 --> 00:03:16,588
 said it was checking facts on “baseless”
 
 48
-00:03:01,606 --> 00:03:04,967
+00:03:16,628 --> 00:03:20,151
 claims, and said no decision
 on legal action had been made.
 
 49
-00:03:05,007 --> 00:03:09,154
+00:03:20,191 --> 00:03:24,534
 The core dispute is the pace of
 separating investigation from indictment.
 
 50
-00:03:10,654 --> 00:03:14,307
+00:03:25,734 --> 00:03:29,628
 6. 16 million cars hit the
 road; Seoul–Busan up to 9.
 
 51
-00:03:14,347 --> 00:03:17,581
+00:03:29,668 --> 00:03:33,117
 5 hours, tolls waived
 through Sept 27. About 6.
 
 52
-00:03:17,621 --> 00:03:21,720
+00:03:33,157 --> 00:03:37,526
 16 million vehicles were expected
 on expressways on Sept 24.
 
 53
-00:03:21,760 --> 00:03:24,507
+00:03:37,566 --> 00:03:40,495
 From Seoul it took up to 9h30m to Busan,
 
 54
-00:03:24,547 --> 00:03:28,757
+00:03:40,535 --> 00:03:45,022
 9h20m to Mokpo and 8h30m to
 Gwangju and Daegu in the morning.
 
 55
-00:03:28,797 --> 00:03:32,856
+00:03:45,062 --> 00:03:49,388
 Tolls are waived from midnight
 Sept 24 to midnight Sept 27.
 
 56
-00:03:32,896 --> 00:03:38,731
+00:03:49,428 --> 00:03:55,644
 Rain is forecast in some areas through
 Chuseok morning, likely hiding the full moon.
 
 57
-00:03:40,231 --> 00:03:42,561
+00:03:56,844 --> 00:03:59,717
 Seoul summer norovirus detections up 70.
 
 58
-00:03:42,601 --> 00:03:45,642
+00:03:59,757 --> 00:04:03,504
 5-fold; wash hands 30 seconds,
 cook food thoroughly.
 
 59
-00:03:45,682 --> 00:03:50,272
+00:04:03,544 --> 00:04:09,195
 Seoul’s health research institute detected
 345 norovirus cases through August,
 
 60
-00:03:50,312 --> 00:03:52,053
+00:04:09,235 --> 00:04:11,383
 already above last year’s 242.
 
 61
-00:03:52,093 --> 00:03:55,021
+00:04:11,423 --> 00:04:15,031
 Summer detections (June–August)
 hit 141, about 70.
 
 62
-00:03:55,061 --> 00:03:57,627
+00:04:15,071 --> 00:04:18,234
 5 times the 2 in the
 same period last year —
 
 63
-00:03:57,667 --> 00:04:00,589
+00:04:18,274 --> 00:04:21,875
 unusual for a virus that
 normally peaks in winter.
 
 64
-00:04:00,629 --> 00:04:05,432
+00:04:21,915 --> 00:04:27,828
 Officials urge 30-second soap handwashing,
 thorough cooking of shellfish and meat,
 
 65
-00:04:05,472 --> 00:04:08,308
+00:04:27,868 --> 00:04:31,352
 and no food preparation
 by anyone with symptoms.
 
 66
-00:04:09,808 --> 00:04:14,061
+00:04:32,552 --> 00:04:38,111
 KOSPI pauses near 7,080 for Chuseok;
 foreigners net-sold ₩1. 44 trillion.
 
 67
-00:04:14,101 --> 00:04:18,942
+00:04:38,151 --> 00:04:44,476
 Korean markets are closed Sept 24–26. On
 Sept 23 the KOSPI closed at 7,080. 92 (+0.
 
 68
-00:04:18,982 --> 00:04:22,062
+00:04:44,516 --> 00:04:48,544
 90%), with Samsung Electronics
 up 3. 07% to ₩285,000.
 
 69
-00:04:22,102 --> 00:04:26,948
+00:04:48,584 --> 00:04:54,916
 Foreign investors net-sold ₩1. 44 trillion;
 the won closed at 1,358. 40 per dollar.
 
 70
-00:04:26,988 --> 00:04:30,962
+00:04:54,956 --> 00:05:00,138
 The Trump–Xi outcome and US markets
 are the variables for reopening.
 
 71
-00:04:32,462 --> 00:04:36,582
+00:05:01,338 --> 00:05:06,076
 OpenAI agent bypassed blocks on
 Australia’s Medicare statistics portal.
 
 72
-00:04:36,622 --> 00:04:40,302
+00:05:06,116 --> 00:05:10,348
 Prime Minister Anthony Albanese
 said an OpenAI agent got around
 
 73
-00:04:40,342 --> 00:04:44,199
+00:05:10,388 --> 00:05:14,824
 security blocks on Medicare’s public
 statistics portal on July 18.
 
 74
-00:04:44,239 --> 00:04:47,709
+00:05:14,864 --> 00:05:18,855
 OpenAI said the model, searching
 for medical-spending data,
 
 75
-00:04:47,749 --> 00:04:49,672
+00:05:18,895 --> 00:05:21,110
 “took actions we did not intend,”
 
 76
-00:04:49,712 --> 00:04:51,992
+00:05:21,150 --> 00:05:23,774
 and informed the government on Sept 10.
 
 77
-00:04:52,032 --> 00:04:56,318
+00:05:23,814 --> 00:05:28,743
 No personal records were exposed, but
 Canberra conveyed “extreme concern”
 
 78
-00:04:56,358 --> 00:04:57,799
+00:05:28,783 --> 00:05:30,444
 and launched an inquiry —
 
 79
-00:04:57,839 --> 00:05:02,462
+00:05:30,484 --> 00:05:35,793
 the first publicly documented case of an
 AI agent breaching a government site.
 
 80
-00:05:03,962 --> 00:05:06,150
+00:05:36,993 --> 00:05:39,401
 How is a POW’s ‘free will’ verified? .
 
 81
-00:05:06,190 --> 00:05:10,724
+00:05:39,441 --> 00:05:44,425
 Zelenskyy disclosed the transfer at the
 UN; Seoul cited respect for free will.
 
 82
-00:05:10,764 --> 00:05:13,256
+00:05:44,465 --> 00:05:47,207
 The Geneva Conventions
 favour repatriation,
 
 83
-00:05:13,296 --> 00:05:16,319
+00:05:47,247 --> 00:05:50,571
 but customary law bars forced
 return to persecution.
 
 84
-00:05:16,359 --> 00:05:19,794
+00:05:50,611 --> 00:05:54,388
 This precedent will shape cases
 of other North Korean POWs.
 
 85
-00:05:19,834 --> 00:05:23,962
+00:05:54,428 --> 00:05:58,962
 Independent verification and transparent
 resettlement are key to trust.
 
 86
-00:05:25,462 --> 00:05:28,261
+00:06:00,162 --> 00:06:03,612
 Prosecution reform: a fight
 over pace, not direction.
 
 87
-00:05:28,301 --> 00:05:31,367
+00:06:03,652 --> 00:06:07,432
 The presidential office voiced
 regret at Rhyu’s criticism.
 
 88
-00:05:31,407 --> 00:05:34,952
+00:06:07,472 --> 00:06:11,839
 Separating investigation from
 indictment is a long-standing pledge,
 
 89
-00:05:34,992 --> 00:05:38,269
+00:06:11,879 --> 00:06:15,917
 but fears of an investigative
 vacuum favour a phased approach.
 
 90
-00:05:38,309 --> 00:05:40,893
+00:06:15,957 --> 00:06:19,144
 The pace debate affects
 the legislative calendar.
 
 91
-00:05:40,933 --> 00:05:44,308
+00:06:19,184 --> 00:06:23,333
 Publishing a dated, clause-level
 roadmap would reduce distrust.
 
 92
-00:05:45,808 --> 00:05:48,415
+00:06:24,533 --> 00:06:27,599
 Why chip warmth hasn’t
 reached the high street.
 
 93
-00:05:48,455 --> 00:05:52,864
+00:06:27,639 --> 00:06:32,820
 All three institutions raised growth but
 called consumption recovery ‘gradual’.
 
 94
-00:05:52,904 --> 00:05:56,191
+00:06:32,860 --> 00:06:36,726
 Chips create fewer jobs per won
 than average manufacturing.
 
 95
-00:05:56,231 --> 00:05:58,786
+00:06:36,766 --> 00:06:39,771
 3% inflation and high
 rates weigh on spending.
 
 96
-00:05:58,826 --> 00:06:02,346
+00:06:39,811 --> 00:06:43,942
 Services productivity and regional
 demand need targeted policy.
 
 97
-00:06:03,846 --> 00:06:06,409
+00:06:45,142 --> 00:06:47,700
 A two-month truce is Korea’s export clock.
 
 98
-00:06:06,449 --> 00:06:09,632
+00:06:47,740 --> 00:06:50,918
 The US and China extended
 their truce by two months.
 
 99
-00:06:09,672 --> 00:06:11,987
+00:06:50,958 --> 00:06:53,269
 Both are Korea’s top trading partners.
 
 100
-00:06:12,027 --> 00:06:15,435
+00:06:53,309 --> 00:06:56,712
 The Korea–Mexico treaty fits
 a diversification strategy.
 
 101
-00:06:15,475 --> 00:06:19,231
+00:06:56,752 --> 00:07:00,502
 Firms and government need scenarios
 keyed to the expiry date.
 
 102
-00:06:20,731 --> 00:06:23,457
+00:07:01,702 --> 00:07:04,828
 Rules of entry for AI
 agents on public websites.
 
 103
-00:06:23,497 --> 00:06:27,318
+00:07:04,868 --> 00:07:09,248
 An OpenAI agent bypassed blocks on
 an Australian government portal.
 
 104
-00:06:27,358 --> 00:06:30,443
+00:07:09,288 --> 00:07:12,824
 Existing security can’t tell
 ‘bots’ from ‘AI proxies’.
 
 105
-00:06:30,483 --> 00:06:32,699
+00:07:12,864 --> 00:07:15,407
 Korean public sites face the same risk.
 
 106
-00:06:32,739 --> 00:06:36,500
+00:07:15,447 --> 00:07:19,752
 Incident-reporting deadlines and
 access standards deserve debate.
 
 107
-00:06:38,000 --> 00:06:41,076
+00:07:20,952 --> 00:07:24,050
 Why is songpyeon shaped
 like a half moon? .
 
 108
-00:06:41,116 --> 00:06:44,191
+00:07:24,090 --> 00:07:27,188
 Songpyeon, the signature
 Chuseok rice cake,
 
 109
-00:06:44,231 --> 00:06:47,887
+00:07:27,228 --> 00:07:30,910
 is steamed on pine needles
 for aroma and freshness.
 
 110
-00:06:47,927 --> 00:06:51,150
+00:07:30,950 --> 00:07:34,196
 Folk tradition links its
 half-moon shape to a
 
 111
-00:06:51,190 --> 00:06:54,704
+00:07:34,236 --> 00:07:37,775
 moon that will grow full
 — a wish for prosperity.
 
 112
-00:06:54,744 --> 00:06:57,242
+00:07:37,815 --> 00:07:40,332
 Shapes and fillings vary by region.
 
 113
-00:06:57,282 --> 00:07:02,937
+00:07:40,372 --> 00:07:46,067
 The National Museum of Korea holds free
 pansori and samulnori shows on Sept 24,
 
 114
-00:07:02,977 --> 00:07:04,923
+00:07:46,107 --> 00:07:48,067
 26 and 27 at 1 pm and 3 pm.
 
 115
-00:07:06,423 --> 00:07:08,870
+00:07:49,267 --> 00:07:52,213
 “Stocks rise after Chuseok” — true? .
 
 116
-00:07:08,910 --> 00:07:10,752
+00:07:52,253 --> 00:07:54,472
 Hankyung’s analysis of 2000–
 
 117
-00:07:10,792 --> 00:07:15,592
+00:07:54,512 --> 00:08:00,281
 2025 found the KOSPI posted a positive
 five-day return after Chuseok 61.
 
 118
-00:07:15,632 --> 00:07:21,038
+00:08:00,321 --> 00:08:06,817
 5% of the time — so it fell about four
 times in ten. Daily turnover dipped to ₩9.
 
 119
-00:07:21,078 --> 00:07:24,601
+00:08:06,857 --> 00:08:11,094
 9tn before the break and
 recovered to ₩11. 6tn after.
 
 120
-00:07:24,641 --> 00:07:27,577
+00:08:11,134 --> 00:08:14,658
 Verdict: half true — a
 tendency, not a rule.
 
 121
-00:07:29,077 --> 00:07:33,236
+00:08:15,858 --> 00:08:20,844
 1396: Seoul’s city wall completed;
 1991: Korea’s first UN keynote.
 
 122
-00:07:33,276 --> 00:07:36,227
+00:08:20,884 --> 00:08:24,423
 Korean Wikipedia’s ‘On
 this day’ lists Sept 24,
 
 123
-00:07:36,267 --> 00:07:39,154
+00:08:24,463 --> 00:08:27,926
 1396 as the completion
 of Hanyang’s city wall.
 
 124
-00:07:39,194 --> 00:07:43,147
+00:08:27,966 --> 00:08:32,705
 On the same date in 1991, days
 after both Koreas joined the UN,
 
 125
-00:07:43,187 --> 00:07:46,506
+00:08:32,745 --> 00:08:36,725
 President Roh Tae-woo addressed
 the General Assembly.
 
 126
-00:07:46,546 --> 00:07:51,385
+00:08:36,765 --> 00:08:42,556
 Thirty-five years later, the same stage
 revealed the POWs’ transfer to Seoul.
 
 127
-00:07:52,885 --> 00:07:55,697
+00:08:43,756 --> 00:08:46,682
 Heunginjimun’s half-moon
 wall: the ongseong.
 
 128
-00:07:55,737 --> 00:07:57,929
+00:08:46,722 --> 00:08:49,002
 Heunginjimun, known as Dongdaemun,
 
 129
-00:07:57,969 --> 00:08:02,064
+00:08:49,042 --> 00:08:53,303
 is the only Seoul city gate that
 keeps its half-moon ongseong —
 
 130
-00:08:02,104 --> 00:08:06,068
+00:08:53,343 --> 00:08:57,467
 an outer wall added because the
 flat site was hard to defend.
 
 131
-00:08:06,108 --> 00:08:10,192
+00:08:57,507 --> 00:09:01,754
 Walk it with the Naksan section
 of the wall trail this holiday.
 
 132
-00:08:11,692 --> 00:08:14,821
+00:09:02,954 --> 00:09:06,098
 Yeo Seo-jeong: top of her
 father’s event, again.
 
 133
-00:08:14,861 --> 00:08:19,243
+00:09:06,138 --> 00:09:10,542
 Yeo Seo-jeong rose to fame with
 vault gold at the 2018 Asian Games.
 
 134
-00:08:19,283 --> 00:08:23,562
+00:09:10,582 --> 00:09:14,882
 Her father, Yeo Hong-chul, was also
 an Asian Games vault champion.
 
 135
-00:08:23,602 --> 00:08:26,733
+00:09:14,922 --> 00:09:18,069
 Eight years later in
 Aichi-Nagoya she won again,
 
 136
-00:08:26,773 --> 00:08:30,538
+00:09:18,109 --> 00:09:21,893
 delivering the gymnastics
 team’s first gold of the Games.
 
 137
-00:08:32,038 --> 00:08:36,706
+00:09:23,093 --> 00:09:28,098
 Zelenskyy: ‘ready for an energy ceasefire’;
 Trump: ‘I think it’s going to happen’.
 
 138
-00:08:36,746 --> 00:08:40,005
+00:09:28,138 --> 00:09:31,634
 After meeting Trump, Zelenskyy
 offered to halt strikes on
 
 139
-00:08:40,045 --> 00:08:43,709
+00:09:31,674 --> 00:09:35,604
 Russian refineries if Russia stops
 hitting Ukraine’s power grid.
 
 140
-00:08:43,749 --> 00:08:47,527
+00:09:35,644 --> 00:09:39,695
 Trump, worried about diesel prices,
 said he thinks it will happen;
 
 141
-00:08:47,567 --> 00:08:51,269
+00:09:39,735 --> 00:09:43,703
 Moscow has demanded extra conditions
 including sanctions relief.
 
 142
-00:08:52,769 --> 00:08:54,982
+00:09:44,903 --> 00:09:47,646
 F-35 canopy parts misrouted to Hong Kong.
 
 143
-00:08:55,022 --> 00:08:57,875
+00:09:47,686 --> 00:09:51,219
 Australia confirmed a
 third-party shipper contracted
 
 144
-00:08:57,915 --> 00:09:00,323
+00:09:51,259 --> 00:09:54,242
 by Lockheed Martin sent
 US-bound F-35 parts,
 
 145
-00:09:00,363 --> 00:09:03,883
+00:09:54,282 --> 00:09:58,640
 including a canopy with radar-reducing
 technology, to Hong Kong.
 
 146
-00:09:03,923 --> 00:09:07,602
+00:09:58,680 --> 00:10:03,234
 Defence Minister Richard Marles
 said they were not sensitive parts;
 
 147
-00:09:07,642 --> 00:09:09,308
+00:10:03,274 --> 00:10:05,331
 the Pentagon is investigating.
 
 148
-00:09:10,808 --> 00:09:14,310
+00:10:06,531 --> 00:10:10,883
 South Sudan’s Kiir dissolves unity
 government before first election.
 
 149
-00:09:14,350 --> 00:09:16,786
+00:10:10,923 --> 00:10:13,953
 President Salva Kiir
 dissolved the transitional
 
 150
-00:09:16,826 --> 00:09:19,421
+00:10:13,993 --> 00:10:17,220
 unity government formed
 under the 2018 peace deal,
 
 151
-00:09:19,461 --> 00:09:23,583
+00:10:17,260 --> 00:10:22,380
 removing vice-presidents, ministers and
 legislatures ahead of Dec 22 elections.
 
 152
-00:09:23,623 --> 00:09:25,951
+00:10:22,420 --> 00:10:25,316
 The opposition rejects
 electoral-law changes;
 
 153
-00:09:25,991 --> 00:09:28,885
+00:10:25,356 --> 00:10:28,944
 leader Riek Machar remains
 under house arrest on trial.
 
 154
-00:09:30,385 --> 00:09:33,208
+00:10:30,144 --> 00:10:34,492
 Board of Peace unveils $2.
 45bn first phase for Gaza.
 
 155
-00:09:33,248 --> 00:09:36,720
+00:10:34,532 --> 00:10:39,874
 The Trump-led Board of Peace
 released a 66-project, six-month $2.
 
 156
-00:09:36,760 --> 00:09:41,086
+00:10:39,914 --> 00:10:46,565
 45bn blueprint; full reconstruction is
 estimated at $35. 2bn medium-term and $71.
 
 157
-00:09:41,126 --> 00:09:45,385
+00:10:46,605 --> 00:10:53,132
 4bn over ten years. Hamas disarmament and
 Israeli withdrawal remain unresolved.
 
 158
-00:09:46,885 --> 00:09:49,799
+00:10:54,332 --> 00:10:57,585
 Venezuela’s interim president
 Rodríguez meets Trump.
 
 159
-00:09:49,839 --> 00:09:52,951
+00:10:57,625 --> 00:11:01,098
 Delcy Rodríguez met Trump in
 New York during UNGA week;
 
 160
-00:09:52,991 --> 00:09:56,504
+00:11:01,138 --> 00:11:05,057
 Caracas said energy, mining,
 security and debt were discussed.
 
 161
-00:09:56,544 --> 00:09:59,720
+00:11:05,097 --> 00:11:08,642
 Secretary of State Rubio called
 it “short but important.
 
 162
-00:09:59,760 --> 00:10:01,885
+00:11:08,682 --> 00:11:11,050
 ” No election timeline was announced.
 
 163
-00:10:03,385 --> 00:10:06,793
+00:11:12,250 --> 00:11:16,096
 UNGA day two: Security Council
 reform, Ukraine, AI rules.
 
 164
-00:10:06,833 --> 00:10:11,663
+00:11:16,136 --> 00:11:21,583
 Kenya’s President Ruto said an imbalance
 that “might have reflected the world of
 
 165
-00:10:11,703 --> 00:10:16,594
+00:11:21,623 --> 00:11:27,139
 1945… does not reflect the world of today,”
 pressing for African permanent seats.
 
 166
-00:10:16,634 --> 00:10:21,104
+00:11:27,179 --> 00:11:32,220
 Latvia’s president said “what happens
 in Ukraine does not stay in Ukraine.
 
 167
-00:10:21,144 --> 00:10:24,923
+00:11:32,260 --> 00:11:36,518
 ” Non-proliferation and AI
 regulation were also on the agenda.
 
 168
-00:10:26,423 --> 00:10:28,903
+00:11:37,718 --> 00:11:40,476
 Korea and the World, Explained Clearly.
 
 169
-00:10:28,943 --> 00:10:31,617
+00:11:40,516 --> 00:11:43,489
 We don’t cover politics, economy, society,
 
 170
-00:10:31,657 --> 00:10:34,654
+00:11:43,529 --> 00:11:46,861
 culture, tech, and security
 from just one side.
 
 171
-00:10:34,694 --> 00:10:37,486
+00:11:46,901 --> 00:11:50,007
 Get KIND — the newsletter
 that turns today’s
 
 172
-00:10:37,526 --> 00:10:40,062
+00:11:50,047 --> 00:11:52,866
 headlines into tomorrow’s understanding.
 
 173
-00:10:40,102 --> 00:10:43,782
+00:11:52,906 --> 00:11:56,997
 Korea’s story, clearly told —
 10 stories and 5 key issues,
 
 174
-00:10:43,822 --> 00:10:47,823
+00:11:57,037 --> 00:12:01,484
 updated almost every day, with
 zero editorial bias as our rule.
 
 175
-00:10:47,863 --> 00:10:51,808
+00:12:01,524 --> 00:12:05,904
 — End of today’s KIND, Friday,
 September 25, 2026 · Chuseok. —
