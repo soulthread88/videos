@@ -27,3 +27,4 @@ novel/ep03/platform_jp/epic_fury_ep03_tiktok_jp.mp4 filter=lfs diff=lfs merge=lf
 novel/ep03/platform_jp/epic_fury_ep03_facebook_jp.mp4 filter=lfs diff=lfs merge=lfs -text
 novel/ep03/platform_jp/epic_fury_ep03_longform_mobile_jp.mp4 filter=lfs diff=lfs merge=lfs -text
 novel/ep03/platform_ko/epic_fury_ep03_longform_ko.mp4 filter=lfs diff=lfs merge=lfs -text
+novel/ep03/platform_ko/epic_fury_ep03_longform_mobile_ko.mp4 filter=lfs diff=lfs merge=lfs -text
