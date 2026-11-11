@@ -67,3 +67,10 @@ novel/ep07/platform_ko/epic_fury_ep07_longform_mobile_ko.mp4 filter=lfs diff=lfs
 novel/ep08/platform_ko/epic_fury_ep08_longform_ko.mp4 filter=lfs diff=lfs merge=lfs -text
 novel/ep09/media/vid9_p02.mp4 filter=lfs diff=lfs merge=lfs -text
 novel/ep09/media/vid9_p17.mp4 filter=lfs diff=lfs merge=lfs -text
+novel/ep09/platform_ko/epic_fury_ep09_facebook_ko.mp4 filter=lfs diff=lfs merge=lfs -text
+novel/ep09/platform_ko/epic_fury_ep09_longform_ko.mp4 filter=lfs diff=lfs merge=lfs -text
+novel/ep09/platform_ko/epic_fury_ep09_reels_ko.mp4 filter=lfs diff=lfs merge=lfs -text
+novel/ep09/platform_ko/epic_fury_ep09_shorts_ko.mp4 filter=lfs diff=lfs merge=lfs -text
+novel/ep09/platform_ko/epic_fury_ep09_threads_ko.mp4 filter=lfs diff=lfs merge=lfs -text
+novel/ep09/platform_ko/epic_fury_ep09_tiktok_ko.mp4 filter=lfs diff=lfs merge=lfs -text
+novel/ep09/platform_ko/epic_fury_ep09_x_ko.mp4 filter=lfs diff=lfs merge=lfs -text
