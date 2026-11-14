@@ -108,3 +108,6 @@ novel/ep10/platform_ko/epic_fury_ep10_x_ko.mp4 filter=lfs diff=lfs merge=lfs -te
 novel/ep10/platform_ko/epic_fury_ep10_shorts_ko.mp4 filter=lfs diff=lfs merge=lfs -text
 novel/ep10/platform_en/epic_fury_ep10_facebook_en.mp4 filter=lfs diff=lfs merge=lfs -text
 novel/ep10/platform_ko/epic_fury_ep10_threads_ko.mp4 filter=lfs diff=lfs merge=lfs -text
+novel/ep10/platform_ko/epic_fury_ep10_shorts_pc_ko.mp4 filter=lfs diff=lfs merge=lfs -text
+novel/ep10/platform_en/epic_fury_ep10_shorts_pc_en.mp4 filter=lfs diff=lfs merge=lfs -text
+novel/ep10/platform_jp/epic_fury_ep10_shorts_pc_jp.mp4 filter=lfs diff=lfs merge=lfs -text
